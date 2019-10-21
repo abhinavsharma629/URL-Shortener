@@ -46,5 +46,5 @@ urllib3==1.24.1
 validators==0.12.3
 virtualenv==16.2.0
 virtualenv-clone==0.4.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 WTForms==2.2.1
