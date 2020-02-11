@@ -9,7 +9,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.1
 decorator==4.3.0
-Django==2.1.4
+Django==2.2.10
 django-cors-headers==2.4.0
 django-crispy-forms==1.7.2
 djangorestframework==3.9.0
