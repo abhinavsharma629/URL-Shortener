@@ -24,7 +24,7 @@ ipinfo==1.1.0
 ipinfo-django==0.1.4
 itsdangerous==1.1.0
 Jinja2==2.10
-lxml==4.2.5
+lxml==4.6.5
 MarkupSafe==1.1.0
 MechanicalSoup==0.11.0
 more-itertools==5.0.0
